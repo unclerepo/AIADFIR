@@ -149,6 +149,11 @@ hostname, username, process, and category columns.
 - `Ingestion_Diagnostics.csv`
 - `SHA256SUMS.txt`
 
+## Example Report
+
+<img width="1476" height="1174" alt="report_example" src="https://github.com/user-attachments/assets/7dbda33b-1118-4d9e-a00d-c5f86f6f2686" />
+<img width="1476" height="969" alt="report_example2" src="https://github.com/user-attachments/assets/c093c364-5e9c-49cc-8809-d04229ca9885" />
+
 ## Limitations
 
 AI-agent artifact formats are not stable public forensic schemas. Codex parsing
