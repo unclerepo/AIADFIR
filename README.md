@@ -6,7 +6,7 @@ from AI coding agents and assistants.
 ## Capabilities
 
 ### Collection
-- Retains the proven Windows/Falcon RTR Codex/Gemini collector.
+- Includes a Windows PowerShell Codex/Gemini collector.
 - Includes a cross-platform Python collector for Windows, macOS, and Linux.
 - Includes a native macOS Bash collector for endpoints without Python.
 - Collects likely artifacts for Codex, Claude Code, Gemini CLI, Cursor,
