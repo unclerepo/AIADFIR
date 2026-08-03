@@ -29,10 +29,7 @@
     Leaves output as a directory and does not create a ZIP.
 
 .EXAMPLE
-    .\Invoke-CodexForensics.ps1 -IncludeRawArtifacts
-
-.EXAMPLE
-    .\Invoke-CodexForensics.ps1 -IncludeRawArtifacts
+    .\Invoke-AIAgentForensics.ps1 -IncludeRawArtifacts
 #>
 
 [CmdletBinding()]
